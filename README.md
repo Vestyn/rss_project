@@ -7,3 +7,6 @@ To use the program with pre-built URLs: python rss_project.py
 
 # Disclaimer
 This project is inspired by the Mr. Robot television series. Feel free to use it as you see fit.
+
+# Note
+This project has been migrated to https://github.com/Vesytn/PythonFeedReader and is now archived at this location. Please visit the new location to receive the latest update!
